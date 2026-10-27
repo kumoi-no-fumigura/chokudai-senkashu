@@ -5,7 +5,12 @@
  "yomi": "ちょくだいせんかしゅう",
  "category": "近代歌集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "近代の歌集（勅題歌集）",
+  "era": "明治34年（1901）刊",
+  "author": "石川理紀之助 編",
+  "desc": "新年の歌会始の勅題に応じて詠まれた歌を選んで集めたもの。"
+ },
  "editions": [
   {
    "pid": "873798",
@@ -28,7 +33,7 @@
    "form": "prose",
    "maki": "",
    "bu": "",
-   "dai": "石川理紀之助/編",
+   "dai": "",
    "kotobagaki": "",
    "author": "",
    "author_ocr": "",
@@ -3384,6 +3389,6 @@
   "yaku": 0,
   "editions": 1,
   "updated": "2026-10-28",
-  "updated_at": "2026-10-28T04:17:01+09:00"
+  "updated_at": "2026-10-28T04:31:00+09:00"
  }
 }
